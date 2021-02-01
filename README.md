@@ -2,7 +2,7 @@
 Frequently used python code for material scientists
 
 [Draw a Phase Diagram](phase_diagram.py)
-[comment]: <> (![alt text](phase_diagram_LiMnO.png "Phase Diagram")
+[//]: (![alt text](phase_diagram_LiMnO.png "Phase Diagram")
 ![](phase_diagram_LiMnO.png =100x80)
 
 
