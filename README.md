@@ -4,7 +4,7 @@ Frequently used python code for material scientists
 [Draw a Phase Diagram](phase_diagram.py)
 <!---(![alt text](phase_diagram_LiMnO.png "Phase Diagram")-->
 
-<img src="phase_diagram_LiMnO.png" alt="drawing" width="100"/>
+<img src="phase_diagram_LiMnO.png" alt="drawing" width="300"/>
 
 
 
